@@ -1,0 +1,13 @@
+{
+  "name"         : "node-red-contrib-lineheader",
+  "version"      : "0.0.1",
+  "description"  : "new line node",
+  "dependencies": {
+  },
+ "keywords": [ "node-red" ],
+  "node-red"     : {
+      "nodes": {
+          "lineHeader": "lineheader.js"
+      }
+  }
+}
